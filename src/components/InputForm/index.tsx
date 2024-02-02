@@ -46,6 +46,13 @@ export const InputForm: React.FC<Props> = ({ getData }) => {
 		console.log('test144424')
 		console.log('test144424')
 		console.log('test144424')
+		console.log('test144424')
+		console.log('test144424')
+		console.log('1')
+		console.log('2')
+		console.log('3')
+		console.log('4')
+		console.log('5')
 
 		setContent('')
 
@@ -67,7 +74,7 @@ export const InputForm: React.FC<Props> = ({ getData }) => {
 				variant="outlined"
 				size="small"
 				sx={{
-					width: '251px',
+					width: '253px',
 				}}
 			/>
 			<Button
@@ -76,7 +83,7 @@ export const InputForm: React.FC<Props> = ({ getData }) => {
 				variant="contained"
 				size="small"
 				sx={{
-					minWidth: '57px',
+					minWidth: '58px',
 					height: '32px',
 					backgroundColor: `${!content ? '#C1C1C1' : '#008CFF'}`,
 					boxShadow: 'none',
@@ -86,7 +93,7 @@ export const InputForm: React.FC<Props> = ({ getData }) => {
 					},
 				}}
 			>
-				追加
+				追加dddd
 			</Button>
 		</StyledForm>
 	)
