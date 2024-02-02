@@ -41,6 +41,11 @@ export const InputForm: React.FC<Props> = ({ getData }) => {
 		console.log('test1444')
 		console.log('test1444')
 		console.log('test14442')
+		console.log('test144424')
+		console.log('test144424')
+		console.log('test144424')
+		console.log('test144424')
+		console.log('test144424')
 
 		setContent('')
 
