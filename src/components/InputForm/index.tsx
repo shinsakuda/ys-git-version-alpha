@@ -20,7 +20,8 @@ export const InputForm: React.FC<Props> = ({ getData }) => {
 
 	const addTodoItem = async (e: React.FormEvent<HTMLFormElement>) => {
 		e.preventDefault()
-
+		console.log('test13')
+		console.log('test133')
 		const randomId = crypto.randomUUID()
 
 		const res = await fetch('http://localhost:3000/tasks', {
@@ -37,6 +38,9 @@ export const InputForm: React.FC<Props> = ({ getData }) => {
 		})
 
 		console.log('test1')
+		console.log('test1444')
+		console.log('test1444')
+		console.log('test14442')
 
 		setContent('')
 
@@ -52,7 +56,7 @@ export const InputForm: React.FC<Props> = ({ getData }) => {
 			<TextField
 				id="add-todo-item"
 				type="text"
-				placeholder="タスクを入力"
+				placeholder="タスクを入力d"
 				value={content}
 				onChange={(e) => setContent(e.target.value)}
 				variant="outlined"
