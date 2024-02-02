@@ -67,7 +67,7 @@ export const InputForm: React.FC<Props> = ({ getData }) => {
 				variant="outlined"
 				size="small"
 				sx={{
-					width: '250px',
+					width: '251px',
 				}}
 			/>
 			<Button
