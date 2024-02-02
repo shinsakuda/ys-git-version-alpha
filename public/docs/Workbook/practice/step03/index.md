@@ -36,5 +36,5 @@ Github の画面で、develop ブランチにマージしてください。
 
 ## answer
 
-答えは[こちら](/public/docs/training/answer/step03/index.md)を確認してください。
+答えは[こちら](/public/docs/Workbook/answer/step03/index.md)を確認してください。
 

@@ -31,5 +31,5 @@ develop ブランチから feature/create-components ブランチに最新の変
 
 ## answer
 
-答えは[こちら](/public/docs/training/answer/step04/index.md)を確認してください。
+答えは[こちら](/public/docs/Workbook/answer/step04/index.md)を確認してください。
 

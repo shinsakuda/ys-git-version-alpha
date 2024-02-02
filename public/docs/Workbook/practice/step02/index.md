@@ -38,4 +38,4 @@ Todoアプリを作成します。
 
 ## answer
 
-答えは[こちら](/public/docs/training/answer/step02/index.md)を確認してください。
+答えは[こちら](/public/docs/Workbook/answer/step02/index.md)を確認してください。

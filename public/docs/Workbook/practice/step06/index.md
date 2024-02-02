@@ -50,5 +50,5 @@ develop ブランチを最新の状態にしてください。
 
 ## answer
 
-答えは[こちら](/public/docs/training/answer/step06/index.md)を確認してください。
+答えは[こちら](/public/docs/Workbook/answer/step06/index.md)を確認してください。
 

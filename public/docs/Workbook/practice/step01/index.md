@@ -27,4 +27,4 @@ feature/create-todo-app が作成でき、チェックアウトしているこ�
 
 ## answer
 
-答えは[こちら](/public/docs/training/answer/step01/index.md)を確認してください。
+答えは[こちら](/public/docs/Workbook/answer/step01/index.md)を確認してください。
