@@ -96,7 +96,7 @@ export const List: React.FC<Props> = ({ getData, todoList }) => {
 									},
 								}}
 							>
-								削除
+								削除OK
 							</Button>
 							<Button
 								type="button"
