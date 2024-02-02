@@ -21,6 +21,7 @@ export const InputForm: React.FC<Props> = ({ getData }) => {
 	const addTodoItem = async (e: React.FormEvent<HTMLFormElement>) => {
 		e.preventDefault()
 		console.log('test13')
+		console.log('test133')
 		const randomId = crypto.randomUUID()
 
 		const res = await fetch('http://localhost:3000/tasks', {
