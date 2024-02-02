@@ -61,7 +61,7 @@ export const InputForm: React.FC<Props> = ({ getData }) => {
 			<TextField
 				id="add-todo-item"
 				type="text"
-				placeholder="タスクを入力d"
+				placeholder="タスクを入力ddd"
 				value={content}
 				onChange={(e) => setContent(e.target.value)}
 				variant="outlined"
